@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Dubai Rapid Car Recovery",
+  "description": "24/7 Premium Emergency Car Recovery & Roadside Assistance across Dubai. 30-minute response time for towing, battery boost, and flat tire services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
